@@ -14,8 +14,9 @@ The **📄 Adobe Acrobat** is the world's most powerful PDF editor, used by busi
 </div>
 
 <div align="center">
-<img alt="Adobe Acrobat Interface" src="https://github.com/user-attachments/assets/b9000e52-09af-476d-8a84-81d8539686f9" />
+<img alt="Adobe Acrobat Interface" src="https://github.com/user-attachments/assets/d11d3dbc-20b2-4a9e-aa1e-f8c75ece1db8" />
 </div>
+
 
 ---
 
